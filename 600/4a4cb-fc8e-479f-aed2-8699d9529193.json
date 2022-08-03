@@ -1,0 +1,113 @@
+{
+    "acquisition_software": "pychron 20.1.1",
+    "aliquot": 6,
+    "analysis_type": "unknown",
+    "analyst_name": "",
+    "arar_mapping": {
+        "Ar36": "Ar36",
+        "Ar37": "Ar37",
+        "Ar38": "Ar38",
+        "Ar39": "Ar39",
+        "Ar40": "Ar40"
+    },
+    "collection_version": "1.0:2.1",
+    "comment": "",
+    "commit": "dedf7e631d7132dafa8566ca31b9c16b0711ff21",
+    "conditionals": null,
+    "data_reduction_software": "pychron 20.1.1",
+    "detectors": {
+        "Ax": {
+            "deflection": null,
+            "gain": null
+        },
+        "H2": {
+            "deflection": null,
+            "gain": null
+        },
+        "H4": {
+            "deflection": null,
+            "gain": null
+        },
+        "L2": {
+            "deflection": null,
+            "gain": null
+        },
+        "L4": {
+            "deflection": null,
+            "gain": null
+        }
+    },
+    "environmental": {
+        "lab_humiditys": [],
+        "lab_pneumatics": [],
+        "lab_temperatures": []
+    },
+    "experiment_queue_name": "FCfusions_08022022",
+    "experiment_type": "Ar/Ar",
+    "extraction": "ngx_CO2_eq12.py",
+    "grainsize": "500-700um",
+    "hops": "",
+    "identifier": "UF002:AS02",
+    "increment": null,
+    "instrument_name": "",
+    "intensity_scalar": 0.0,
+    "irradiation": "UF002",
+    "irradiation_level": "A",
+    "irradiation_position": 2,
+    "isotopes": {
+        "Ar36": {
+            "detector": "L4",
+            "name": "Ar36",
+            "serial_id": "00000"
+        },
+        "Ar37": {
+            "detector": "L2",
+            "name": "Ar37",
+            "serial_id": "00000"
+        },
+        "Ar38": {
+            "detector": "Ax",
+            "name": "Ar38",
+            "serial_id": "00000"
+        },
+        "Ar39": {
+            "detector": "H2",
+            "name": "Ar39",
+            "serial_id": "00000"
+        },
+        "Ar40": {
+            "detector": "H4",
+            "name": "Ar40",
+            "serial_id": "00000"
+        }
+    },
+    "laboratory": "",
+    "latitude": 0.0,
+    "lithology": "",
+    "lithology_class": "",
+    "lithology_group": "",
+    "lithology_type": "",
+    "longitude": 0.0,
+    "mass_spectrometer": "ngx",
+    "material": "Sanidine",
+    "measurement": "ngx_unknown900_500_10_H4_L4_nocenter.py",
+    "post_equilibration": "ngx_pump_extraction_line.py",
+    "post_measurement": "ngx_pump_ms.py",
+    "principal_investigator": "WiscAr",
+    "project": "UF002",
+    "queue_conditionals_name": "",
+    "repository_identifier": "UF002",
+    "rlocation": "",
+    "sample": "FCs",
+    "source": {
+        "emission": 2108.0,
+        "trap": 650.01129
+    },
+    "spec_sha": "23aeea083a3aae381788b647572440a5f181dc34",
+    "timestamp": "2022-08-02T19:58:38.983409",
+    "tripped_conditional": null,
+    "unit": "",
+    "username": "",
+    "uuid": "6004a4cb-fc8e-479f-aed2-8699d9529193",
+    "whiff_result": null
+}
